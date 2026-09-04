@@ -1,3 +1,3 @@
-/// @description Maintains the global game clock.
+/// @description Advances the shared game tick.
 if (global.game.initialized)
-    global.game.tick++;
+    GAME_TICK++;

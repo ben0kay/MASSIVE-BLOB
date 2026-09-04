@@ -26,6 +26,7 @@
     {"id":{"name":"o_solid","path":"objects/o_solid/o_solid.yy",},},
     {"id":{"name":"r_boot","path":"rooms/r_boot/r_boot.yy",},},
     {"id":{"name":"r_flow_test","path":"rooms/r_flow_test/r_flow_test.yy",},},
+    {"id":{"name":"sc_baking","path":"scripts/sc_baking/sc_baking.yy",},},
     {"id":{"name":"sc_blob_system","path":"scripts/sc_blob_system/sc_blob_system.yy",},},
     {"id":{"name":"sc_enums","path":"scripts/sc_enums/sc_enums.yy",},},
     {"id":{"name":"sc_flowfield","path":"scripts/sc_flowfield/sc_flowfield.yy",},},
