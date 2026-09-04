@@ -5,8 +5,8 @@
   "isDnD":false,
   "name":"sc_baking",
   "parent":{
-    "name":"MASSIVE BLOB",
-    "path":"MASSIVE BLOB.yyp",
+    "name":"scripts",
+    "path":"folders/scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

@@ -1,12 +1,12 @@
 {
   "$GMScript":"v1",
-  "%Name":"sc_enums",
+  "%Name":"sc_Enums_Macros",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"sc_enums",
+  "name":"sc_Enums_Macros",
   "parent":{
-    "name":"MASSIVE BLOB",
-    "path":"MASSIVE BLOB.yyp",
+    "name":"scripts",
+    "path":"folders/scripts.yy",
   },
   "resourceType":"GMScript",
   "resourceVersion":"2.0",

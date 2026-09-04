@@ -40,7 +40,7 @@ for (var _row = 0; _row < _rows; _row++)
             sc_blob_add(blob_system, _x, _y);
     }
 }
-
+sc_blob_grid_rebuild(blob_system);
 initialized = true;
 
 show_debug_message(

@@ -18,3 +18,5 @@ enum FlowDirection
 #macro BLOB_RADIUS 5
 #macro GAME_TICK global.game.tick
 #macro BLOB_UPDATE_RATE 2
+#macro BLOB_GRID_CELL_SIZE 32
+#macro BLOB_GRID_UPDATE_RATE 2

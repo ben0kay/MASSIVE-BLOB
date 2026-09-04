@@ -8,8 +8,8 @@
   "name":"o_solid",
   "overriddenProperties":[],
   "parent":{
-    "name":"MASSIVE BLOB",
-    "path":"MASSIVE BLOB.yyp",
+    "name":"objects",
+    "path":"folders/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
