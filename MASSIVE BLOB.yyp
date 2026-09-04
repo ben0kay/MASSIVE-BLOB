@@ -1,0 +1,44 @@
+{
+  "$GMProject":"v1",
+  "%Name":"MASSIVE BLOB",
+  "AudioGroups":[
+    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+  "configs":{
+    "children":[],
+    "name":"Default",
+  },
+  "defaultScriptType":1,
+  "Folders":[],
+  "ForcedPrefabProjectReferences":[],
+  "IncludedFiles":[],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2024.14.4.222",
+  },
+  "name":"MASSIVE BLOB",
+  "resources":[
+    {"id":{"name":"o_base","path":"objects/o_base/o_base.yy",},},
+    {"id":{"name":"o_blob_system","path":"objects/o_blob_system/o_blob_system.yy",},},
+    {"id":{"name":"o_controller_level","path":"objects/o_controller_level/o_controller_level.yy",},},
+    {"id":{"name":"o_controller_main","path":"objects/o_controller_main/o_controller_main.yy",},},
+    {"id":{"name":"o_solid","path":"objects/o_solid/o_solid.yy",},},
+    {"id":{"name":"r_boot","path":"rooms/r_boot/r_boot.yy",},},
+    {"id":{"name":"r_flow_test","path":"rooms/r_flow_test/r_flow_test.yy",},},
+    {"id":{"name":"sc_blob_system","path":"scripts/sc_blob_system/sc_blob_system.yy",},},
+    {"id":{"name":"sc_enums","path":"scripts/sc_enums/sc_enums.yy",},},
+    {"id":{"name":"sc_flowfield","path":"scripts/sc_flowfield/sc_flowfield.yy",},},
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
+    {"roomId":{"name":"r_boot","path":"rooms/r_boot/r_boot.yy",},},
+    {"roomId":{"name":"r_flow_test","path":"rooms/r_flow_test/r_flow_test.yy",},},
+  ],
+  "templateType":"game",
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
+  ],
+}
